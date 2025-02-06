@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="description" content="Denizli'de güvenilir çilingir ve anahtar hizmetleri. Acil çilingir, oto çilingir, kapı açma, kilit değişimi hizmetleri için hemen arayın!">
+    <meta name="keywords" content="Denizli çilingir, çınar çilingir, istiklal çilingir, incilipınar çilingir, oto çilingir, araç çilingir, kasa çilingir, fatih çilingir, en yakın çilingir, acil anahtarcı, çilingir fiyat listesi">
+    <meta name="author" content="Denizli Çilingir">
+    <title>Denizli Çilingir - 7/24 Acil Çilingir Hizmeti</title>
+    <link rel="stylesheet" href="styles.css">
+    
+    <style>
+        body {
+            background-color: #f4f4f4;
+            color: #333;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header, footer {
+            background-color: #007bff;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+        section {
+            padding: 20px;
+            background-color: #fff;
+            margin: 10px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .call-button {
+            position: fixed;
+            bottom: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 90%;
+            max-width: 400px;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+            text-align: center;
+            background-color: green;
+            color: red;
+            border-radius: 10px;
+            text-decoration: none;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .call-button:hover {
+            background-color: darkgreen;
+        }
+        @media (max-width: 768px) {
+            section {
+                padding: 15px;
+                margin: 5px;
+            }
+            .call-button {
+                font-size: 20px;
+                padding: 15px;
+            }
+        }
+    </style>
+    
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-K4PRRL44');</script>
+    <!-- End Google Tag Manager -->
+    
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-K311QBGDXP"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-K311QBGDXP');
+    </script>
+    <!-- End Google Analytics -->
+</head>
+<body>
+    <header>
+        <h1>Denizli Çilingir Hizmetleri</h1>
+        <p>7/24 Acil Çilingir ve Anahtar Hizmetleri - Hemen Ara: <a href="tel:05538788428">0553 878 84 28</a></p>
+    </header>
+    
+    <section id="hizmetler">
+        <h2>Hizmetlerimiz</h2>
+        <ul>
+            <li>Kapı Açma</li>
+            <li>Oto Çilingir - Araç Anahtar Çözümleri</li>
+            <li>Kasa Çilingir</li>
+            <li>Kilit Değişim Hizmetleri</li>
+            <li>Acil Çilingir ve Anahtarcı</li>
+        </ul>
+    </section>
+    
+    <section id="bolgeler">
+        <h2>Hizmet Verdiğimiz Bölgeler</h2>
+        <p>Denizli genelinde <strong>Çınar, İstiklal, İncilipınar, Bağbaşı, Zeytinköy, Kampüs, Kınıklı, Fatih, Servergazi, Gerzele, Yenimahalle</strong> ve çevresinde hizmet veriyoruz.</p>
+    </section>
+    
+    <section id="iletisim">
+        <h2>İletişim</h2>
+        <p>En yakın çilingir hizmeti için hemen arayın: <a href="tel:05538788428">0553 878 84 28</a></p>
+        <p>Adres: Denizli, Merkez</p>
+    </section>
+    
+    <a href="tel:05538788428" class="call-button">Hemen Ara: 0553 878 84 28</a>
+    
+    <footer>
+        <p>&copy; 2025 Denizli Çilingir - Tüm Hakları Saklıdır.</p>
+    </footer>
+</body>
+</html>
